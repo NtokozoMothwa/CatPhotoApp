@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Flower Photos App by Ntokozo Mothwa</title>
+
     </head>
     <body>
         <main>
