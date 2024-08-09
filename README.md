@@ -2,7 +2,9 @@
 ## Source code:
 <!DOCTYPE html>
 <html lang="en">
-    
+    <head>
+          <title> </title>
+    </head>
     <body>
         <main>
         <h1>FlowerPhotosApp</h1>
