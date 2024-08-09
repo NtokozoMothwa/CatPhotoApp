@@ -1,9 +1,9 @@
-# CatPhotoApp
+# FlowerPhotosApp
 ## Source code:
 <!DOCTYPE html>
 <html lang="en">
   <head> 
-         ** flwersapp**
+         FlowerPhotosApp by Ntokozo Mothwa
     </head> 
     <body>
         <main>
