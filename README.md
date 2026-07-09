@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Flower Photos App by Ntokozo Mothwa</title>
+        href="https://github.com/NtokozoMothwa/FlowerPhotosApp/blob/17b3697d97e63ec56fa8a5c69737f81fe9b6d2ce/index.html"
     </head>
     <body>
      <main>
