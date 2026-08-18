@@ -7,7 +7,7 @@
     </head>
     <body>
      <main>
-        <h1>FlowerPhotosApp</h1>
+        <h1>Flower Photos App</h1>
           <section>
         <h2>Flower Photos</h2>
         <p>See more <a target="_blank" href="http://127.0.0.1:5500/FlowerPhotoApp/index.html">flower photos</a> in our gallery</p>
@@ -16,11 +16,16 @@
           </section>
           <section>
             <h2>Flower lists</h2>
+              <ul>
+                  <>Roses</>
+                      <>Lilies </>
+                          <>Lavenders</>
+              </ul>
             <h3>Things flowers love:</h3>
             <ul>
                 <li>Dirt</li>
-                <li>Water</li>
-                <li>Sunlight</li>
+                     <li>Water</li>
+                          <li>Sunlight</li>
             </ul>
            </section>
            <figure>
