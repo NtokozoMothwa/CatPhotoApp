@@ -17,9 +17,9 @@
           <section>
             <h2>Flower lists</h2>
               <ul>
-                  <>Roses</>
-                      <>Lilies </>
-                          <>Lavenders</>
+                  <li>Roses</li>
+                      <li>Lilies </li>
+                          <li>Lavenders</li>
               </ul>
             <h3>Things flowers love:</h3>
             <ul>
